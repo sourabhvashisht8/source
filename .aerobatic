@@ -1,0 +1,5 @@
+{
+  "appId": "<unique_app_id>",
+  "secretKey": "<secret_key>",
+  "userId": "<aerobatic_user_id>"
+}
